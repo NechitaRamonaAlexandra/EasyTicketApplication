@@ -23,3 +23,10 @@ Overview: An application for management, comercialization and exchanging of tick
 
 ---
 ## Main Page
+The main page for buying and browsing through tickets.
+
+![Image](https://github.com/NechitaRamonaAlexandra/EasyTicketApplication/blob/main/2.png)
+
+Basic Login/Registration
+
+![Image](https://github.com/NechitaRamonaAlexandra/EasyTicketApplication/blob/main/login.png)
